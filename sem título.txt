@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>10 meses de nós</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #0f0f0f;
+  color: #f2f2f2;
+  line-height: 1.7;
+}
+section {
+  max-width: 700px;
+  margin: auto;
+  padding: 60px 20px;
+}
+h1, h2 {
+  text-align: center;
+}
+p {
+  font-size: 1.1rem;
+}
+.timeline p {
+  border-left: 2px solid #ffffff33;
+  padding-left: 12px;
+  margin: 12px 0;
+}
+button {
+  width: 100%;
+  padding: 14px;
+  margin: 10px 0;
+  background: transparent;
+  border: 1px solid #ffffff55;
+  color: #fff;
+  font-size: 1rem;
+}
+footer {
+  text-align: center;
+  opacity: 0.6;
+  padding: 30px;
+}
+</style>
+</head>
+<body>
+
+<section>
+<h1>10 meses de nós</h1>
+<p style="text-align:center">
+A gente não correu.<br>
+A gente ficou.<br>
+E isso diz tudo.
+</p>
+</section>
+
+<section class="timeline">
+<h2>Nossa história</h2>
+<p><b>Mês 1</b> — cuidado e curiosidade.</p>
+<p><b>Mês 2</b> — conversa que virou rotina.</p>
+<p><b>Mês 3</b> — riso fácil.</p>
+<p><b>Mês 4</b> — dias difíceis, mãos dadas.</p>
+<p><b>Mês 5</b> — você virou casa.</p>
+<p><b>Mês 6</b> — amar ficou seguro.</p>
+<p><b>Mês 7</b> — mesmo com medo, a gente ficou.</p>
+<p><b>Mês 8</b> — cuidar um do outro.</p>
+<p><b>Mês 9</b> — paz.</p>
+<p><b>Mês 10</b> — eu escolheria você de novo.</p>
+</section>
+
+<section>
+<h2>Quando você precisar lembrar</h2>
+
+<button onclick="alert('Você não precisa ser forte o tempo todo. Ser você já é suficiente.')">
+Quando estiver cansado
+</button>
+
+<button onclick="alert('Eu vejo você. Até onde você se esconde. E ainda assim, fico.')">
+Quando duvidar de si
+</button>
+
+<button onclick="alert('A gente não é perfeito. A gente é verdadeiro.')">
+Quando duvidar da gente
+</button>
+</section>
+
+<section>
+<h2>Pra você</h2>
+<p style="text-align:center">
+Eu não prometo facilidade.<br>
+Prometo cuidado.<br>
+Prometo ficar.
+</p>
+<p style="text-align:center"><b>Feliz 10 meses pra nós.</b></p>
+</section>
+
+<footer>
+Feito com amor.
+</footer>
+
+</body>
+</html>
